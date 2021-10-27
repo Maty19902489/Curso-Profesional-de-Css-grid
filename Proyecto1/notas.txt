@@ -1,0 +1,8 @@
+Auto-fill : llena la fila con tantas columnas como 
+            pueda caber.
+            Por lo tanto crea columnas implicitas 
+            tratando de llenar la fila.
+
+ Auto-fit: encaja las columnas disponibles actualmente
+           en el espacio expandiendolas para que ocupen
+           cualquier espacio disponible.           
